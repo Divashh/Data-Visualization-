@@ -11,3 +11,5 @@ customer status
 • Demographics: Age, Gender, Region, City, State 
 • Purchase Data: Product Category, Purchase Amount, Discount Applied, Payment Method 
 • Customer Engagement: Customer Satisfaction (scale of 1-5), Repeat Customer Status. 
+
+Link to PowerBI: https://app.powerbi.com/links/aSuSXpDmi3?ctid=32f44c14-cd0e-4539-b763-3c860a76727a&pbi_source=linkShare 
